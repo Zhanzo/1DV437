@@ -1,0 +1,64 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   22.21.13.8494
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\robin\OneDrive\Unity\Wanted Spaceship\Wanted Spaceship 2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\robin\OneDrive\Unity\Wanted Spaceship\Wanted Spaceship 2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\robin\OneDrive\Unity\Wanted Spaceship\Wanted Spaceship 2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\robin\OneDrive\Unity\Wanted Spaceship\Wanted Spaceship 2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\robin\OneDrive\Unity\Wanted Spaceship\Wanted Spaceship 2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\robin\OneDrive\Unity\Wanted Spaceship\Wanted Spaceship 2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\robin\OneDrive\Unity\Wanted Spaceship\Wanted Spaceship 2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\robin\OneDrive\Unity\Wanted Spaceship\Wanted Spaceship 2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\robin\OneDrive\Unity\Wanted Spaceship\Wanted Spaceship 2_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\robin\OneDrive\Unity\Wanted Spaceship\Wanted Spaceship 2_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\robin\OneDrive\Unity\Wanted Spaceship\Wanted Spaceship 2_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\robin\OneDrive\Unity\Wanted Spaceship\Wanted Spaceship 2_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.242 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+UnloadTime: 1.991739 ms
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   22.21.13.8494
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\robin\OneDrive\Unity\Wanted Spaceship\Wanted Spaceship 2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\robin\OneDrive\Unity\Wanted Spaceship\Wanted Spaceship 2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\robin\OneDrive\Unity\Wanted Spaceship\Wanted Spaceship 2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\robin\OneDrive\Unity\Wanted Spaceship\Wanted Spaceship 2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\robin\OneDrive\Unity\Wanted Spaceship\Wanted Spaceship 2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\robin\OneDrive\Unity\Wanted Spaceship\Wanted Spaceship 2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\robin\OneDrive\Unity\Wanted Spaceship\Wanted Spaceship 2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\robin\OneDrive\Unity\Wanted Spaceship\Wanted Spaceship 2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\robin\OneDrive\Unity\Wanted Spaceship\Wanted Spaceship 2_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\robin\OneDrive\Unity\Wanted Spaceship\Wanted Spaceship 2_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\robin\OneDrive\Unity\Wanted Spaceship\Wanted Spaceship 2_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\robin\OneDrive\Unity\Wanted Spaceship\Wanted Spaceship 2_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.041 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 408 -> priority: 1 
+  Thread -> id: 724 -> priority: 1 
+UnloadTime: 1.274335 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2af0 -> priority: 1 
+  Thread -> id: 14cc -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.866354 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 623.
+Total: 0.590914 ms (FindLiveObjects: 0.044932 ms CreateObjectMapping: 0.039645 ms MarkObjects: 0.468955 ms  DeleteObjects: 0.036247 ms)
+
