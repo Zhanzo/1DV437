@@ -1,4 +1,4 @@
-# 1DV437
+# Wanted Spaceship
 This is the game that I made for the course 1DV437 at Linnaeus University.
 The game is a 3D space shooter made in Unity3D.
 
